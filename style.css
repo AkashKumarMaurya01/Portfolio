@@ -161,7 +161,7 @@ section {
 #profile {
   display: flex;
   justify-content: center;
-  gap: 6rem;
+  gap: 4rem;
   height: 80vh;
 }
 
@@ -171,10 +171,7 @@ section {
   width: 400px;
   margin: auto 0;
 }
-.myprofile
-{
-  scale: 1.5;
-}
+
 
 .section__text {
   align-self: center;
