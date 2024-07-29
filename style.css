@@ -161,7 +161,7 @@ section {
 #profile {
   display: flex;
   justify-content: center;
-  gap: 5rem;
+  gap: 6rem;
   height: 80vh;
 }
 
